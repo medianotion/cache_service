@@ -42,3 +42,7 @@ artifacts/
 .DS_Store?
 ._*
 Thumbs.db
+
+#claude files
+CLAUDE.md
+REFACTOR.md

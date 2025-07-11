@@ -1,6 +1,6 @@
 # Cache Service for .NET Standard
 
-A Redis-based cache service library for .NET Standard applications.
+A cache service library for .NET Standard applications.
 
 ## Features
 
